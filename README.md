@@ -36,7 +36,5 @@ A full-stack chat application built with MERN Stack, featuring real-time messagi
 
     ```bash
      npm start
-    
-
 
 This template provides a clear and organized README for your project, covering essential aspects such as features, installation. Feel free to customize it further to suit your project's.
